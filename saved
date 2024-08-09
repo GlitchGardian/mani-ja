@@ -1,0 +1,26 @@
+const messages = [
+    "Aree, tu maro diko chone to mani jaa",
+    "Oyy babydiii",
+    "mani jaa ne dikaa",
+    "Mani jaa mare Dalda matching karva che",
+    "Evu shu kare che manii jaa ne",
+    "You mean the world to me!",
+    "oyy sadelii",
+    "Okay, last time have nai kau evu!",
+    "Please, let me win your heart!",
+    "please....."
+];
+
+
+const gifSources = [
+    'https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o3amxnMXc4aGU1cWs4dHlvd3l0YWxtemc4bWFpNmFyaHB6enQ3dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/116uKb9kWhda8/giphy.webp',
+    'https://media.tenor.com/1dgu7F5zsFMAAAAj/milk-and-mocha.gif',
+    'https://media.tenor.com/-Oes-vO2J-sAAAAj/milk-and-mocha.gif',
+    'https://media.tenor.com/lRfKPZBEXXAAAAAj/milk-and-mocha.gif',
+    'https://media.tenor.com/0nb_g8Y5NzQAAAAj/milk-and-mocha-cute.gif',
+    'https://media.tenor.com/cI4bskqyalQAAAAj/milk-and-mocha.gif',
+    'https://media.tenor.com/-Oes-vO2J-sAAAAj/milk-and-mocha.gif',
+    'https://media.tenor.com/aJ46M1lGpr4AAAAM/angry-girl.gif',
+    'https://media.tenor.com/0xizsjO09-AAAAAi/cony-angry.gif',
+    'https://media.tenor.com/5HNW7Bv4FGgAAAAM/bandri.gif',
+];
