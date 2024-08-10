@@ -3,6 +3,16 @@ const convincedButton = document.getElementById('convinced-button');
 const notConvincedButton = document.getElementById('not-convinced-button');
 const convinceText = document.getElementById('convince-text');
 const convinceAudio = document.getElementById('convince-audio');
+const nameH1 = document.querySelector('#name')
+const Myname = prompt("Please Enter Your Name🥹:")
+
+if (!Myname) {
+    nameH1.textContent += "My love❤️";
+}
+else {
+    nameH1.textContent += `${Myname}❤️`;
+}
+
 
 let gifIndex = 1;
 let notConvincedCount = 0;
