@@ -2,6 +2,8 @@ const gifContainer = document.getElementById('gif-container');
 const convincedButton = document.getElementById('convinced-button');
 const notConvincedButton = document.getElementById('not-convinced-button');
 const convinceText = document.getElementById('convince-text');
+const convinceAudio = document.getElementById('convince-audio');
+
 let gifIndex = 1;
 let notConvincedCount = 0;
 const messages = [
@@ -78,6 +80,8 @@ convincedButton.addEventListener('click', () => {
     convincedButton.textContent = "I love you Ganduuu😘";
     convinceText.style.display = 'none'
     notConvincedButton.style.display = 'none'
+
+    convinceAudio.play();
 });
 
 notConvincedButton.addEventListener('click', () => {
